@@ -1,4 +1,4 @@
-# Java2exe-maven-launch4j-demo
+# Java-Netbeans-Maven-Launch4j
 
 #### STEP 1 -> Install JDK // I used 32 bit JDK, even when on on 64bit Win 10 machine
 #### STEP 2 -> Add JAVA_HOME environment variable to point to JDK directory and JDK/bin, Maven/bin directory to Path varialbe
